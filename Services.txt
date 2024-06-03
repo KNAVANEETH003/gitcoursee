@@ -1,3 +1,7 @@
 hello everyone 
 its  my new project
+<<<<<<< HEAD
 its not necessary
+=======
+nothing to be done
+>>>>>>> 2f19e896dce5d7ca02b0cb7aa944edc1c857edb8
